@@ -1,0 +1,231 @@
+[{
+  "_id": {
+    "$oid": "684ddb59cbd1ecd6b4564570"
+  },
+  "courseId": "course_777faaa3",
+  "title": "Movie picture.",
+  "description": "Provide opportunity international police explain box investment toward. Decide specific represent among close race chair program. Foreign center charge must establish wonder work.",
+  "instructorId": "user_a9e8ce43",
+  "category": "total",
+  "level": "advanced",
+  "duration": 10,
+  "price": 166.34,
+  "tags": [
+    "bar",
+    "blood",
+    "wind"
+  ],
+  "createdAt": {
+    "$date": "2025-06-14T20:28:09.652Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T20:28:09.652Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "684ddb59cbd1ecd6b4564571"
+  },
+  "courseId": "course_4e260ccf",
+  "title": "Instead college whom office.",
+  "description": "Executive various parent wrong forget event level. Movie argue school.",
+  "instructorId": "user_a9e8ce43",
+  "category": "surface",
+  "level": "intermediate",
+  "duration": 14.1,
+  "price": 193.64,
+  "tags": [
+    "music",
+    "anything",
+    "study",
+    "best"
+  ],
+  "createdAt": {
+    "$date": "2025-06-14T20:28:09.652Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T20:28:09.652Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "684ddb59cbd1ecd6b4564572"
+  },
+  "courseId": "course_37773db4",
+  "title": "Lay movie drug serve.",
+  "description": "Up son bad provide director appear change collection. Information already capital choose when.",
+  "instructorId": "user_916b8d45",
+  "category": "way",
+  "level": "beginner",
+  "duration": 8.5,
+  "price": 11.64,
+  "tags": [
+    "down",
+    "east",
+    "skill",
+    "high",
+    "statistics",
+    "visualization"
+  ],
+  "createdAt": {
+    "$date": "2025-06-14T20:28:09.652Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T20:28:09.652Z"
+  },
+  "isPublished": false
+},
+{
+  "_id": {
+    "$oid": "684ddb59cbd1ecd6b4564573"
+  },
+  "courseId": "course_44ba7402",
+  "title": "Change page main.",
+  "description": "Pay rock meeting box candidate. Name focus always star.",
+  "instructorId": "user_a9e8ce43",
+  "category": "foot",
+  "level": "advanced",
+  "duration": 19.6,
+  "price": 121.15,
+  "tags": [
+    "spend",
+    "pressure"
+  ],
+  "createdAt": {
+    "$date": "2025-06-14T20:28:09.653Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T20:28:09.653Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "684ddb59cbd1ecd6b4564574"
+  },
+  "courseId": "course_8019554e",
+  "title": "About he change.",
+  "description": "Network own ahead religious sound every quality. Sell industry money win. Answer tree down.",
+  "instructorId": "user_a65f952c",
+  "category": "movie",
+  "level": "beginner",
+  "duration": 11,
+  "price": 32.09,
+  "tags": [
+    "cause",
+    "analysis",
+    "Republican"
+  ],
+  "createdAt": {
+    "$date": "2025-06-14T20:28:09.653Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T20:28:09.653Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "684ddb59cbd1ecd6b4564575"
+  },
+  "courseId": "course_6b823027",
+  "title": "Party reveal daughter.",
+  "description": "Bad state appear compare change maintain return. Key pay him artist though back.",
+  "instructorId": "user_a65f952c",
+  "category": "center",
+  "level": "intermediate",
+  "duration": 6.3,
+  "price": 147.29,
+  "tags": [
+    "central",
+    "production",
+    "Republican"
+  ],
+  "createdAt": {
+    "$date": "2025-06-14T20:28:09.653Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T20:28:09.653Z"
+  },
+  "isPublished": false
+},
+{
+  "_id": {
+    "$oid": "684ddb59cbd1ecd6b4564576"
+  },
+  "courseId": "course_28851d34",
+  "title": "Though behind.",
+  "description": "Sea seven month he range home when. Expect kid rest doctor alone challenge ahead. Sit common music. Certain look economic oil experience enter.",
+  "instructorId": "user_0482efeb",
+  "category": "agent",
+  "level": "intermediate",
+  "duration": 7.5,
+  "price": 158.04,
+  "tags": [
+    "other",
+    "always",
+    "know",
+    "exist",
+    "include"
+  ],
+  "createdAt": {
+    "$date": "2025-06-14T20:28:09.654Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T20:28:09.654Z"
+  },
+  "isPublished": false
+},
+{
+  "_id": {
+    "$oid": "684ddb59cbd1ecd6b4564577"
+  },
+  "courseId": "course_c50956df",
+  "title": "Must strong.",
+  "description": "Show give along form. Couple including sense might inside employee part.",
+  "instructorId": "user_560e2df6",
+  "category": "that",
+  "level": "intermediate",
+  "duration": 10.1,
+  "price": 75.53,
+  "tags": [
+    "leader",
+    "yourself",
+    "budget",
+    "huge"
+  ],
+  "createdAt": {
+    "$date": "2025-06-14T20:28:09.654Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T20:28:09.654Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "684df558cbd1ecd6b4564610"
+  },
+  "courseId": "course_660e45c1",
+  "title": "Introduction to Data Science",
+  "description": "This course provides a beginner-friendly introduction to data science concepts.",
+  "instructorId": "user_e7ab5a50",
+  "category": "Data Science",
+  "level": "beginner",
+  "duration": 15,
+  "price": 120,
+  "tags": [
+    "data",
+    "python",
+    "machine learning"
+  ],
+  "createdAt": {
+    "$date": "2025-06-14T22:19:04.090Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T22:19:04.090Z"
+  },
+  "isPublished": true
+}]
